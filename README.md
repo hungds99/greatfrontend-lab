@@ -1,1 +1,1 @@
-# greatfrontend-lab
+# Starter with greatfrontend.com
